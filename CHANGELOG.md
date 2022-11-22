@@ -1,3 +1,10 @@
+## 1.3.2 (2022-11-22)
+
+Minor:
+
+  - Fix compatibility with Ruby >= 2.7
+  - Dependencies upgraded
+
 ## 1.3.0 (2018-03-19)
 
 Minor:
